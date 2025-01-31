@@ -13,3 +13,8 @@ The following Python libraries are required to run the analysis:
 - seaborn
 - matplotlib
 - scikit-learn
+
+You can install the required libraries using the following command:
+```bash
+pip install pandas seaborn matplotlib scikit-learn
+```
