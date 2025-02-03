@@ -4,7 +4,7 @@ This repository contains an analysis of the Titanic dataset. The goal is to buil
 
 ## Dataset
 
-The dataset used in this analysis is the Titanic dataset.
+The dataset used in this analysis is the Titanic dataset, which contains information about the passengers on the Titanic, including their age, sex, class, and whether they survived.
 
 ## Requirements
 
