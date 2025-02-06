@@ -18,3 +18,6 @@ You can install the required libraries using the following command:
 ```bash
 pip install pandas seaborn matplotlib scikit-learn
 ```
+
+## Installation
+To set up and run the analysis on your local machine, follow these steps:
