@@ -21,3 +21,5 @@ pip install pandas seaborn matplotlib scikit-learn
 
 ## Installation
 To set up and run the analysis on your local machine, follow these steps:
+
+1. First, clone the repository to your local machine.
