@@ -27,3 +27,4 @@ To set up and run the analysis on your local machine, follow these steps:
 git clone https://github.com/AliParky/titanic
 ```
 2. Change your current working directory to the project directory.
+3. Install the required libraries.
