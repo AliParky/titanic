@@ -31,3 +31,4 @@ git clone https://github.com/AliParky/titanic
 cd titanic
 ```
 3. Install the required libraries.
+5. Run the Jupyter Notebook
