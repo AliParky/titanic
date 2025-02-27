@@ -31,4 +31,7 @@ git clone https://github.com/AliParky/titanic
 cd titanic
 ```
 3. Install the required libraries.
+```bash
+pip install pandas seaborn matplotlib scikit-learn
+```
 5. Run the Jupyter Notebook
