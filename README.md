@@ -33,3 +33,5 @@ pip install pandas seaborn matplotlib scikit-learn
 ```bash
 jupyter notebook titanic_analysis.ipynb
 ```
+
+## Usage
