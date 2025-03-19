@@ -36,3 +36,5 @@ jupyter notebook titanic_analysis.ipynb
 
 ## Usage
 Open the Jupyter Notebook and run the cells in sequence to perform the analysis.
+
+## Project Structure
