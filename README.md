@@ -40,4 +40,4 @@ Open the Jupyter Notebook and run the cells in sequence to perform the analysis.
 ## Project Structure
 - `titanic_analysis.ipynb`: The main Jupyter Notebook containing the analysis.
 - `train.csv`: The training dataset.
-- `test.csv`
+- `test.csv`: The training dataset.
