@@ -27,7 +27,7 @@ cd titanic
 ```
 3. Install the required libraries.
 ```bash
-pip install pandas seaborn matplotlib scikit-learn joblib
+pip install requirements.txt
 ```
 5. Run the Jupyter Notebook
 ```bash
