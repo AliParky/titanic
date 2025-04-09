@@ -35,7 +35,7 @@ jupyter notebook titanic_analysis.ipynb
 ```
 
 ## Usage
-Open the Jupyter Notebook and run the cells in sequence to perform the analysis.
+Open the Jupyter Notebook and run the cells in sequence to perform the analysis. Follow the instructions provided in the notebook to understand each step of the process.
 
 ## Project Structure
 - `titanic_analysis.ipynb`: The main Jupyter Notebook containing the analysis.
