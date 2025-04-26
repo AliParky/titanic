@@ -13,6 +13,7 @@ The following Python libraries are required to run the analysis:
 - seaborn
 - matplotlib
 - scikit-learn
+- joblib
 
 ## Installation
 To set up and run the analysis on your local machine, follow these steps:
