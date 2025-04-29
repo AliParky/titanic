@@ -36,10 +36,10 @@ jupyter notebook titanic_analysis.ipynb
 ```
 
 ## Usage
-Open the Jupyter Notebook and run the cells in sequence to perform the analysis. Follow the instructions provided in the notebook to understand each step of the process.
+Open the Jupyter Notebook and run the cells in sequence to perform the analysis. Follow the instructions provided in the notebook to understand each step of the process. 
 
 ## Project Structure
 - `titanic_analysis.ipynb`: The main Jupyter Notebook containing the analysis.
-- `train.csv`: The training dataset.
+- `train.csv`: Training dataset used for model development and evaluation
 - `test.csv`: The training dataset.
 - `titanic_model.pkl`: Saved Random Forest model.
