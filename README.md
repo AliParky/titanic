@@ -8,7 +8,7 @@ The dataset used in this analysis is the famous Titanic dataset from Kaggle, whi
 - Demographic information
 - Journey information
 - Family relationships
-- Survival status
+- Survival status (target variable)
 
 ## Requirements
 
