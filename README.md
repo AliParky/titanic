@@ -5,9 +5,9 @@ This repository contains an analysis of the Titanic dataset. The goal is to buil
 ## Dataset
 
 The dataset used in this analysis is the famous Titanic dataset from Kaggle, which contains information about passengers aboard the RMS Titanic, including:
-- Demographic information
-- Journey information
-- Family relationships
+- Demographic information (age, sex, class)
+- Journey information (cabin, embarked location, ticket class)
+- Family relationships (siblings/spouses, parents/children)
 - Survival status (target variable)
 
 ## Requirements
