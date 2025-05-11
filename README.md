@@ -13,11 +13,10 @@ The dataset used in this analysis is the famous Titanic dataset from Kaggle, whi
 ## Requirements
 
 The following Python libraries are required to run the analysis:
-- pandas
-- seaborn
-- matplotlib
-- scikit-learn
-- joblib
+- pandas: For data manipulation and analysis
+- seaborn & matplotlib: For data visualization
+- scikit-learn: For machine learning algorithms and evaluation
+- joblib: For model serialization
 
 ## Installation
 To set up and run the analysis on your local machine, follow these steps:
